@@ -82,7 +82,7 @@ class LinkedList {
     let first = this.head;
     let count = 0;
 
-    while(first !== null && count != idk){
+    while(first !== null && count != idx){
       count += 1;
       current = current.next;
     }
